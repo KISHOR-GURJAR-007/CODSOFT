@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BRYAN SELVAM V - Portfolio</title>
+    <title>KISHOR GURJAR - Portfolio</title>
     <link rel="stylesheet" href="style1.css">
 </head>
 <body>
 
     <!-- Header Section -->
     <header>
-        <h1>BRYAN SELVAM V</h1>
+        <h1>KISHOR GURJAR</h1>
         <p>Java Developer | Web Developer | AI/ML Enthusiast</p>
     </header>
 
@@ -18,7 +18,7 @@
     <section id="about" class="section">
         <h2>About Me</h2>
         <img src="your-photo.jpg" alt="My Photo" class="profile-img">
-        <p>Hello! I’m Bryan Selvam V, a passionate developer skilled in Java, Web Development, and Artificial Intelligence.
+        <p>Hello! I’m Kishor Gurjar, a passionate developer skilled in Java, Web Development, and Artificial Intelligence.
         I love solving real-world problems, building applications, and continuously learning new technologies.</p>
     </section>
 
@@ -93,4 +93,5 @@
     </footer>
 
 </body>
+
 </html>
